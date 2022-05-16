@@ -8,7 +8,7 @@ Description:
 3. Speech app was design in Figma and it was for comunicative purposes.
 4. Food app was design in AdobeXD and it was for healthy foods.
 5. AdobeXD Healthy project was design in AdobeXD and it includes:
- 5.1 Persona, Storyboard, User Journey, User Flow,Design System,UI Layouts, Paper Prototypes , Digital prototypes and Usability study. 
+ 5.1 Persona, Storyboard, User Journey, User Flow,Design System,UI Layouts, User Scenario , Paper Prototypes , Digital prototypes and Usability study. 
   
  Bulgarian Version
  Описание:
@@ -17,5 +17,5 @@ Description:
  3. Speech app беше разработен на Figma и е с цел комуникация между хората.
  4. Food App беше разработено на AdobeXD и е с цел здравословно хранене.
  5.AdobeXD Healthy project беше разработено на AdobeXD и включва:
- 5.1 Persona, Storyboard, User Journey, User Flow, Design System, UI Layouts, Paper Prototypes , Digital prototypes and Usability study.
+ 5.1 Persona, Storyboard, User Journey, User Flow, Design System, UI Layouts, User Scenario , Paper Prototypes , Digital prototypes and Usability study.
    
